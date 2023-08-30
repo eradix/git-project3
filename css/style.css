@@ -1,7 +1,12 @@
-body{
+body {
     background-color: #222;
     color: #ccc;
 }
-*{
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
     color: green;
 }
